@@ -1,0 +1,13 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"webpack": "^5.91.0",
+		"webpack-cli": "^5.1.4"
+	},
+	"scripts": {
+		"build": "webpack"
+	},
+	"dependencies": {
+		"nanoid": "^5.0.7"
+	}
+}
